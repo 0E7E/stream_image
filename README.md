@@ -5,7 +5,7 @@ Supabase Storage上の指定されたバケットから画像の一覧を取得�
 
 アクセスは 
 
-https://vercelURL.vercel.app/api/image?id=1
+https://image-stream.vercel.app/api/image?id=1
 
 というURLに対して行い、ID=1 で最後にUploadされた画像が表示されます。
 
