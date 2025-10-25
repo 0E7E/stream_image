@@ -16,3 +16,10 @@ https://stream-image.vercel.app/api/image?id=1
 | `SUPABASE_URL`    | Supabase プロジェクトのURL       | `https://xxxx.supabase.co` |
 | `SUPABASE_KEY`    | Supabase のAPIキー | `eyJhbGciOi...`            |
 | `SUPABASE_BUCKET` | 対象のストレージバケット名             | `images`                   |
+
+
+#　実行方法
+
+`npm install package.json`
+
+`npm run dev`
